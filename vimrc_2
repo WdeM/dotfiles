@@ -1,0 +1,16 @@
+syntax on
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set mouse=n
+set ai
+set number
+set hlsearch
+set ruler
+set rnu
+set paste
+highlight Comment ctermfg=green
+filetype plugin indent on
+set background=dark
+set t_Co=256
+
