@@ -1,2 +1,2 @@
-# linux_configs
-contains linux configs
+# dotfiles
+contains dotfiles
